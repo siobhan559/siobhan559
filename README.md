@@ -3,9 +3,9 @@
 
 - 🔭 I’ve recently been working on [Papaya](www.papayapapaya.com)
 
-- 🌱 I’m currently learning **React**
-
 - 🤝 And also [Eocene](https://eocene698.herokuapp.com/)
+
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [www.siobhanbrown.co.uk](www.siobhanbrown.co.uk)
 
