@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [www.siobhanbrown.co.uk](www.siobhanbrown.co.uk)
+- 👨‍💻 Have a look at my portfolio [here](https://www.siobhanbrown.co.uk/)
 
 
 <h3 align="left">Languages and Tools:</h3>
